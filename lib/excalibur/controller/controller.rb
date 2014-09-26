@@ -1,0 +1,1 @@
+require 'excalibur/network/socket'
