@@ -1,4 +1,4 @@
-module Rubarb
+module Excalibur
   CLIENT_VERSION = 63
   MIN_SERVER_VERSION = 38
   MIN_SERVER_VERSION_TIME = 20
