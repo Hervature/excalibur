@@ -1,1 +1,5 @@
-require 'excalibur/network/socket'
+require 'excalibur/network/socket'\
+
+module Excalibur
+
+end

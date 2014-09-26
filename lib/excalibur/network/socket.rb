@@ -1,6 +1,6 @@
 require 'socket'
 
-module Rubarb
+module Excalibur
   class ExcaliburSocket < TCPSocket
 
     def write_string str
